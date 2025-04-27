@@ -1,4 +1,4 @@
-# trade
+# Zerodha-MCP
 
 To install dependencies:
 
